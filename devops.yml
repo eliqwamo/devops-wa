@@ -1,0 +1,12 @@
+---
+name: DevOps Enginnering 2023
+price: 750
+is_active: true
+tags: 
+  - Docker
+  - Jenkins
+  - Git
+  - AWS
+lecturer: 
+  first_name: Elihu
+  last_name: Schitrit
